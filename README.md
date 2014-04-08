@@ -7,8 +7,8 @@ Feel free to pull request and add programming problems and if you solved them sh
 Also, add your name/github account at the top of each *.md file. The format of *.md is as follows
 Author: Date: Problem Statement: Sample:.
 
-<blockquote>01 - Intersection(Objective-C) - Berkeley University 2013 programming contest</blockquote> 
-<blockquote>02 - Extrapolate(C) - Berkeley University 2013 programming contest</blockquote>
-<blockquote>03 - StarWar(C) - Google Code Jam</blockquote>
-<blockquote>04 - ReverseWord(C) - Google Code Jam</blockquote>
-<blockquote>05 - StoreCredit(C) - Google Code Jam</blockquote>
+<blockquote>01 - Intersection (Objective-C) - Berkeley University 2013 programming contest</blockquote> 
+<blockquote>02 - Extrapolate  (C)           - Berkeley University 2013 programming contest</blockquote>
+<blockquote>03 - StarWar      (C)           - Google Code Jam</blockquote>
+<blockquote>04 - ReverseWord  (C)           - Google Code Jam</blockquote>
+<blockquote>05 - StoreCredit  (C)           - Google Code Jam</blockquote>

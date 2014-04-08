@@ -37,6 +37,7 @@ Large dataset
 1 ≤ N ≤ 1000
 
 Sample:
+
 	Input  
  
 	3

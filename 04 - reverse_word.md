@@ -27,6 +27,7 @@ N = 100
 
 
 Sample:
+
 	Input 
  
 	3
