@@ -3,11 +3,9 @@ Muhammad Hussein Nasrollahpour © 2014
 Under GPL License.
 
 This directory contains solution to various programming problems(accredited ones such as ACM) in various programming languages.
-Feel free to pull request and add programming problems and if you solved it share the solution. Each solution should contain a *.md file which describes the problem and a sample of the program.
+Feel free to pull request and add programming problems and if you solved them share the solution. Each solution should contain a *.md file which describes the problem and a sample of running the solution of the problem.
 Also, add your name/github account at the top of each *.md file. The format of *.md is as follows
-Author: Date: Problem Statement: Sample: .
-
-Porgramming Problems list goes here
+Author: Date: Problem Statement: Sample:.
 
 	Programming languages that problems are coded in are surrounded in paranthesis next to problems name.	
 
