@@ -9,5 +9,6 @@ Author: Date: Problem Statement: Sample:.
 
 <blockquote>01 - Intersection(Objective-C) - Berkeley University 2013 programming contest</blockquote> 
 <blockquote>02 - Extrapolate(C) - Berkeley University 2013 programming contest</blockquote>
-<blockquote>03 - starWar(C) - Google Code Jam</blockquote>
+<blockquote>03 - StarWar(C) - Google Code Jam</blockquote>
 <blockquote>04 - ReverseWord(C) - Google Code Jam</blockquote>
+<blockquote>05 - StoreCredit(C) - Google Code Jam</blockquote>
