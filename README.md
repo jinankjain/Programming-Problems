@@ -8,6 +8,6 @@ Also, add your name/github account at the top of each *.md file. The format of *
 Author: Date: Problem Statement: Sample:.
 
 <blockquote>01 - Intersection(Objective-C) - Berkeley University 2013 programming contest</blockquote> 
-	02 - Extrapolate(C) - Berkeley University 2013 programming contest
-	03 - starWar(C) - Google Code Jam
-	04 - ReverseWord(C) - Google Code Jam
+<blockquote>02 - Extrapolate(C) - Berkeley University 2013 programming contest</blockquote>
+<blockquote>03 - starWar(C) - Google Code Jam</blockquote>
+<blockquote>04 - ReverseWord(C) - Google Code Jam</blockquote>
