@@ -7,9 +7,7 @@ Feel free to pull request and add programming problems and if you solved them sh
 Also, add your name/github account at the top of each *.md file. The format of *.md is as follows
 Author: Date: Problem Statement: Sample:.
 
-	Programming languages that problems are coded in are surrounded in paranthesis next to problems name.	
-
-	01 - Intersection(Objective-C) - Berkeley University 2013 programming contest 
+<blockquote>01 - Intersection(Objective-C) - Berkeley University 2013 programming contest</blockquote> 
 	02 - Extrapolate(C) - Berkeley University 2013 programming contest
 	03 - starWar(C) - Google Code Jam
 	04 - ReverseWord(C) - Google Code Jam
