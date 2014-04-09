@@ -2,7 +2,7 @@
 //  store_credit.c
 //  StoreCredit
 //
-//  Created by Muhammad Hussein Nasrollahpour on 4/4/14.
+//  Created by Muhammad Hussein Nasrollahpour on 7/4/14.
 //  Copyright (c) 2014 Chocolate. All rights reserved.
 //
 
@@ -79,7 +79,7 @@ int main(int argc, const char *argv[])
 				
 				j++;
 			}
-
+			
 			int newP[MAXLENGTH];
 			makeEmptyArray(NULL, newP, MAXLENGTH, 1);
 			
@@ -91,93 +91,41 @@ int main(int argc, const char *argv[])
 				}
 			}
 			
-			int halfOfCredit = C / 2;
-			printf("%d\n", halfOfCredit);
-			
-			
-			
-			
-			
-			
-			
-			int max = newP[0];
-			for (int d = 0; d <= b; d++) {
-				if (max < newP[d]) {
-					max = newP[d];
-					newP[d] = -1;
-				}
-			}
-			
-			int newnewP[MAXLENGTH];
-			makeEmptyArray(NULL, newnewP, MAXLENGTH, 1);
-			int difference = C - max;
-			int f = 0;
-			for (int e = 0; e <= b; e++) {
-				if (newP[e] <= difference) {
-					newnewP[f] = newP[e];
-					f++;
-				}
-			}
-			
-			int differencesMax = newnewP[0];
-			if (-1 == differencesMax) {
-			s:
-				max = newP[0];
+			int found = 0;
+			int idxFound = 0;
+			int idxA, idxB = 0;
+			for (int a = 0; a <= b; a++) {
+				int except = newP[a];
+				
 				for (int d = 0; d <= b; d++) {
-					if (max < newP[d]) {
-						max = newP[d];
-						newP[d] = -1;
-					}
-				}
-				
-				int newnewP[MAXLENGTH];
-				makeEmptyArray(NULL, newnewP, MAXLENGTH, 1);
-				int difference = C - max;
-				int f = 0;
-				for (int e = 0; e <= b; e++) {
-					if (newP[e] <= difference) {
-						newnewP[f] = newP[e];
-						f++;
-					}
-				}
-				
-				differencesMax =  newnewP[0];
-				for (int g = 0; g <= f; g++) {
-					if (differencesMax < newnewP[g]) {
-						differencesMax = newnewP[g];
-					}
-				}
-				if (-1 == differencesMax) goto s;
-			} else {
-				for (int g = 0; g <= f; g++) {
-					if (differencesMax < newnewP[g]) {
-						differencesMax = newnewP[g];
-					}
-				}
-			}
+					int i = 0;
+					if (except + newP[d] == C && !found) {
+						found = 1;
+						i = d;
 						
-			int maxIndex = 0;
-			int isFound = 0;
-			int differencesMaxIndex = 0;
-			for (int h = 0; h <= j; h++) {
-				if (max == p[h] && !isFound) {
-					maxIndex = h;
-					isFound = 1;
-				} else if (differencesMax == p[h]) {
-					differencesMaxIndex = h;
+						for (int h = 0; h <= j; h++) {
+							if (except == p[h] && !idxFound) {
+								idxA = h;
+								idxFound = 1;
+							} else if (newP[i] == p[h]) {
+								idxB = h;
+							}
+						}
+						
+						int lowerIndex = (idxA < idxB) ? 1 : 0;
+						if (lowerIndex == 1) {
+							printf("Case #%d: %d %d\n", _case, idxA + 1, idxB + 1);
+						} else {
+							printf("Case #%d: %d %d\n", _case, idxB + 1, idxA + 1);
+						}
+						
+					}
+					
+					if (found) {
+						break;
+					}
 				}
 			}
-						
-			int lowerIndex = (maxIndex < differencesMaxIndex) ? 1 : 0;
-			if (lowerIndex == 1) {
-				// printf("Case #%d: %d %d\n", _case, maxIndex + 1, differencesMaxIndex + 1);
-			} else {
-				// printf("Case #%d: %d %d\n", _case, differencesMaxIndex + 1, maxIndex + 1);
-			}
-			
-			// printf("%d %d\n", max, differencesMax);
-			
-			// fputs(result, out);
 			
 			C = l = 0;
 			_case++;
@@ -200,5 +148,5 @@ void makeEmptyArray(char *ary, int iary[MAXLENGTH], int length, int isNumber)
 		for (int a = 0; a < length; a++) {
 			iary[a] = -1;
 		}
-	} 
+	}
 }
