@@ -9,7 +9,8 @@ Author: Date: Problem Statement: Sample:.
 
 <blockquote>01 - Intersection 	       (Objective-C) - Berkeley University 2013 programming contest</blockquote> 
 <blockquote>02 - Extrapolate  	       (C)           - Berkeley University 2013 programming contest</blockquote>
-<blockquote>03 - StarWar      	       (C)           - Google Code Jam</blockquote>
-<blockquote>04 - ReverseWord  	       (C)           - Google Code Jam</blockquote>
-<blockquote>05 - StoreCredit  	       (C)           - Google Code Jam</blockquote>
-<blockquote>06 - MinimumScalarProduct  (Ruby)        - Google Code Jam</blockquote>
+<blockquote>03 - StarWar      	       (C)           - Google Code Jam, ?</blockquote>
+<blockquote>04 - ReverseWord  	       (C)           - Google Code Jam, Africa 2010, Qualification Round</blockquote>
+<blockquote>05 - StoreCredit  	       (C)           - Google Code Jam, Africa 2010, Qualification Round</blockquote>
+<blockquote>06 - MinimumScalarProduct  (Ruby)        - Google Code Jam, Code Jam 2008, Round 1A</blockquote>
+<blockquote>07 - FileFixIt             (Ruby)        - Google Code Jam, Code Jam 2010, Round 1B</blockqute>
