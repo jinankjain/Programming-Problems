@@ -2,7 +2,7 @@
 #  min_scalar_product.rb
 #  MinimumScalarProduct
 #
-#  Created by Muhammad Hussein Nasrollahpour on 10/4/14.
+#  Created by Muhammad Hussein Nasrollahpour on 4/10/14.
 #  Copyright (c) 2014 Chocolate. All rights reserved.
 #
 
