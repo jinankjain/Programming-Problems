@@ -2,7 +2,7 @@
 //  store_credit.c
 //  StoreCredit
 //
-//  Created by Muhammad Hussein Nasrollahpour on 7/4/14.
+//  Created by Muhammad Hussein Nasrollahpour on 4/7/14.
 //  Copyright (c) 2014 Chocolate. All rights reserved.
 //
 
