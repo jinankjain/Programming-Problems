@@ -14,3 +14,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>05 - StoreCredit  	       (C)           - Google Code Jam, Africa 2010, Qualification Round</blockquote>
 <blockquote>06 - MinimumScalarProduct  (Ruby)        - Google Code Jam, Code Jam 2008, Round 1A</blockquote>
 <blockquote>07 - FileFixIt             (Ruby)        - Google Code Jam, Code Jam 2010, Round 1B</blockqute>
+<blockquote>08 - PyramidOrganization   (Ruby)        - Interesting problem</blockqute>
