@@ -15,3 +15,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>06 - MinimumScalarProduct  (Ruby)        - Google Code Jam, Code Jam 2008, Round 1A</blockquote>
 <blockquote>07 - FileFixIt             (Ruby)        - Google Code Jam, Code Jam 2010, Round 1B</blockquote>
 <blockquote>08 - PyramidOrganization   (Ruby)        - Interesting problem</blockquote>
+<blockquote>09 - PatternMatching       (Ruby)        - Interesting problem</blockquote>
