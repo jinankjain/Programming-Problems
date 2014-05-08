@@ -2,6 +2,6 @@ Author: Muhammad Hussein Nasrollahpour
 
 Date: 2014
 
-Problem Statment: 
+Problem Statement: 
 
 Sample:
