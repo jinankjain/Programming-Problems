@@ -11,7 +11,7 @@ text = ARGV[1].dup
 
 p_len = pattern.length
 
-occurence = false
+occurrence = false
 
 puts text
 
@@ -26,10 +26,10 @@ text.each_char do |char|
 		temp_str.each_char do |c|
 			tc = text[text.index(char)]
 			if pattern[p_idx] == text[t_idx]
-				occurence = true
+				occurrence = true
 				
 			else
-				occurence = false
+				occurrence = false
 			end
 
 			p_idx += 1
@@ -37,12 +37,12 @@ text.each_char do |char|
 		end
 	end
 
-	if occurence
+	if occurrence
 		puts "#{pattern} found" 
 	else
 		text = text[(text.index(char) + 1)..(text.length - 1)]
 		puts text
 	end
 	
-	occurence = false
+	occurrence = false
 end
