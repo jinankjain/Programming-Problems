@@ -34,15 +34,14 @@ values.sort()
 max = values[len(values) - 1]
 
 # Maximum element row index
-row_idx = 0
+max_row_idx = 0
 # Maximum element column index
-column_idx = 0
+max_column_idx = 0
 
 for idx in index_of_each_value:
   if max == int(idx['value']):
-    print idx['value']
-    row_idx = idx['row']
-    column_idx = idx['column']
+    max_row_idx = idx['row']
+    max_column_idx = idx['column']
 
 
-print row_idx , " ", column_idx
+print max_row_idx , " ", max_column_idx
