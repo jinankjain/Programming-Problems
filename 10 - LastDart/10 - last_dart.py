@@ -14,8 +14,6 @@ index_of_each_value = []
 # Keeps the index of the row
 row_idx = 0
 
-index_of_each_value = []
-
 for line in input:
   values = line.split()
 
