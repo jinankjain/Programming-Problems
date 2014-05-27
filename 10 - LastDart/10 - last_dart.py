@@ -8,6 +8,8 @@
 
 input = open("./input.txt", "r")
 
+number_of_rows_and_column = input.readline()
+
 # keeps the index of each value
 index_of_each_value = []
 
