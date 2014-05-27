@@ -15,7 +15,7 @@ Print two integers: the number of row and the number of column of the cell which
 Sample:
 
 	Input	Output
-	3 3	2 2
+	3 3	   2 2
 	1 1 1
 	1 2 1
 	1 1 1

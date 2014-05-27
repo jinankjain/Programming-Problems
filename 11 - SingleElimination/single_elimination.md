@@ -20,7 +20,7 @@ Sample:
 
     Input	 Output
 
-    8       a
+    8      	   a
     a b
     c d
     e f
