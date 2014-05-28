@@ -18,3 +18,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>09 - PatternMatching       (Ruby)        	- Interesting problem</blockquote>
 <blockquote>10 - LastDart			        (Python, Ruby)	- Yandex.Algorithm, 2014, Qualification Round</blockquote>
 <blockquote>11 - SingleElimination		 (Python)	      - Yandex.Algorithm, 2014, Qualification Round</blockquote>
+<blockquote>12 - StackofPaper          (Python)        - Yandex.Algorithm, 2014, Qualification Round</blockquote>
