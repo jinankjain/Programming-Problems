@@ -15,11 +15,18 @@ N = input.readline();
 # Keeps all width and height
 all_width_height = []
 
+# Indicates whether or not the required ordering is impossible
+chaos = False
+
 # The result will be written in output file
 with open("./output.txt", "w") as output:
 
   # Walk through input file in order to get width & height of papers
   for line in input:
+
+    # if the required ordering is impossible jump out of for
+    if chaos:
+      break
 
     # split the content of the line because width and height values are seperated by a space
     width_and_height = line.split()
@@ -34,11 +41,20 @@ with open("./output.txt", "w") as output:
       width = height
       height = temp
 
+    for w_h in all_width_height:
+      if w_h[0] == width:
+        chaos = True
+        break
+
     all_width_height.append([width, height])
 
-  all_width_height.sort()
+  # Write ordering if required ordering is possible
+  if not chaos:
+    all_width_height.sort()
 
-  for w_h in reversed(all_width_height):
-    output.write(str(w_h[0]) + ' ')
-    output.write(str(w_h[1]))
-    output.write('\n')
+    for w_h in reversed(all_width_height):
+      output.write(str(w_h[0]) + ' ')
+      output.write(str(w_h[1]) + '\n')
+  # The required ordering is impossible
+  else:
+    output.write('Chaos')
