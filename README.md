@@ -16,6 +16,7 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>07 - FileFixIt             (Ruby)        	- Google Code Jam, Code Jam 2010, Round 1B</blockquote>
 <blockquote>08 - PyramidOrganization   (Ruby)        	- Interesting problem</blockquote>
 <blockquote>09 - PatternMatching       (Ruby)        	- Interesting problem</blockquote>
-<blockquote>10 - LastDart			        (Python, Ruby)	- Yandex.Algorithm, 2014, Qualification Round</blockquote>
-<blockquote>11 - SingleElimination		 (Python)	      - Yandex.Algorithm, 2014, Qualification Round</blockquote>
-<blockquote>12 - StackofPaper          (Python)        - Yandex.Algorithm, 2014, Qualification Round</blockquote>
+<blockquote>10 - LastDart	       (Python, Ruby)	- Yandex.Algorithm, 2014, Qualification Round</blockquote>
+<blockquote>11 - SingleElimination     (Python)	        - Yandex.Algorithm, 2014, Qualification Round</blockquote>
+<blockquote>12 - StackofPaper          (Python)         - Yandex.Algorithm, 2014, Qualification Round</blockquote>
+<blockquote>13 - CorrelationCoefficient(Python)         - HackerRank: May Real Data, 2014</blockquote>
