@@ -21,4 +21,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>12 - StackofPaper          (Python)        - Yandex.Algorithm, 2014, Qualification Round</blockquote>
 <blockquote>13 - CorrelationCoefficient(Python)        - HackerRank: May Real Data, 2014</blockquote>
 <blockquote>14 - GuessFlipkartQuery    (Python)        - HackerRank: May Real Data, 2014</blockquote>
-<blockquote>14 - Palindrome            (Python)        - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
+<blockquote>15 - Palindrome            (Python)        - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
