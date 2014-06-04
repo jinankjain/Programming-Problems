@@ -22,3 +22,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>13 - CorrelationCoefficient(Python)        - HackerRank: May Real Data, 2014</blockquote>
 <blockquote>14 - GuessFlipkartQuery    (Python)        - HackerRank: May Real Data, 2014</blockquote>
 <blockquote>15 - Palindrome            (Python)        - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
+<blockquote>16 - AlgorithmicCrush      (Ruby)          - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
