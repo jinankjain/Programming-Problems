@@ -25,3 +25,4 @@ Author: Date: Problem Statement: Sample:.
 <blockquote>16 - AlgorithmicCrush        (Ruby)            - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
 <blockquote>17 - Lucy&Flowers            (C++)             - HackerRank: May Weekly challenges - Week 4, 2014</blockquote>
 <blockquote>18 - Roy&AlphaBetaTrees      (?)               - HackerRank: May Weekly challenges - Week 4, 2014 - Not solved yet</blockquote>
+<blockquote>19 - TwoTwo                  (C++)             - HackerRank: May Weekly challenges - Week 4, 2014 - Expert</blockquote>
