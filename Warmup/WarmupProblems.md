@@ -9,3 +9,7 @@
 03 - Ch0c0late/utopian tree			- 2014 | HackerRank
 	
 	https://gist.github.com/Ch0c0late/e248e86dda90ea733a85
+
+04 - Ch0c0late/gem stones			- 2014 | HackerRank
+	
+	https://gist.github.com/Ch0c0late/c2208bc3e8576213f9e2
