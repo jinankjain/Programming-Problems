@@ -13,3 +13,7 @@
 04 - Ch0c0late/gem stones			- 2014 | HackerRank
 	
 	https://gist.github.com/Ch0c0late/c2208bc3e8576213f9e2
+
+05 - Ch0c0late/filter array			- 2014 | HackerRank
+
+	https://gist.github.com/Ch0c0late/5db4db1b9f406dd5a104
