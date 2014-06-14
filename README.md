@@ -3,9 +3,13 @@ Muhammad Hussein Nasrollahpour © 2013 -  2014
 Under GPL License.
 
 This directory contains solution to various programming problems(accredited ones such as ACM, Google, etc.) in various programming languages.
-Feel free to pull request and add programming problems and share the solution if you've solved them. Each solution should contain a [problem_name].md file which explains the problem and a sample of input and output. Not only you can solve all problems listed here in other programming languages except the language that the problem is solved in that language for the first time but also you can improve solutions in case of Time Complexity and Space Complexity.  
+
+Feel free to pull request and add programming problems and share the solution if you've solved them. Each solution should contain a [problem_name].md file which explains the problem and a sample of input and output. Not only you can solve all problems listed here in other programming languages except the language that the problem is solved in that language for the first time but also you can improve solutions in case of Time Complexity and Space Complexity.
+  
 Also, add your name/github account at the top of each [problem_name].md file. The format of [problem_name].md is as follows
-Author: Date: Problem Statement: Sample:.
+	
+	Author: Date: Problem Statement: Sample:.
+
 There is also a set of warmup problems. These problems have not individual [problem_number] - [problem_name] folder and all these problems go into one folder named Warmup. The Warmup folder is only contained of one file named WarmupProblems.md. The format of this file is as follow: [problem_number] - [name_of_person_who_has_solved_it]/[problem_name] [tab][tab][tab] - [year] | [problem_author]. 
 
 <blockquote>Warmup</blockquote>
