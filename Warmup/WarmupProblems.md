@@ -17,3 +17,7 @@
 05 - Ch0c0late/filter array			- 2014 | HackerRank
 
 	https://gist.github.com/Ch0c0late/5db4db1b9f406dd5a104
+
+06 - Ch0c0late/list length
+
+	https://gist.github.com/Ch0c0late/840b5be42111a125e3d9
