@@ -21,3 +21,24 @@
 06 - Ch0c0late/list length
 
 	https://gist.github.com/Ch0c0late/840b5be42111a125e3d9
+
+07 - Ch0c0late/sum of odd elements
+
+	https://gist.github.com/Ch0c0late/f48b4a1a5f95bb81ffda
+
+08 - Ch0c0late/update list
+
+  	https://gist.github.com/Ch0c0late/4770d6043f548e4af836     
+
+09 - Ch0c0late/list replication
+
+	https://gist.github.com/Ch0c0late/71f92a79dd0d831f2f09
+
+10 - Ch0c0late/array of n elements
+
+	https://gist.github.com/Ch0c0late/294e666d22258f2aa20f
+
+11 - Ch0c0late/filter position
+
+	https://gist.github.com/Ch0c0late/eebd28c876e365f47093
+
