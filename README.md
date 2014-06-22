@@ -16,15 +16,15 @@ There is also a set of warmup problems. These problems have not individual [prob
 
   Warmup
 
-  01 - Intersection 	     (Objective-C) 	  - Berkeley University 2013 programming contest
+  01 - Intersection 	       (Objective-C) 	  - Berkeley University 2013 programming contest
 
-  02 - Extrapolate  	     (C)           	  - Berkeley University 2013 programming contest
+  02 - Extrapolate  	       (C)           	  - Berkeley University 2013 programming contest
 
-  03 - StarWar      	     (C)              - Google Code Jam, ?
+  03 - StarWar      	       (C)               - Google Code Jam, ?
 
-  04 - ReverseWord  	     (C)              - Google Code Jam, Africa 2010, Qualification Round
+  04 - ReverseWord  	       (C)               - Google Code Jam, Africa 2010, Qualification Round
 
-  05 - StoreCredit  	     (C)              - Google Code Jam, Africa 2010, Qualification Round
+  05 - StoreCredit  	       (C)               - Google Code Jam, Africa 2010, Qualification Round
 
   06 - MinimumScalarProduct  (Ruby)        	  - Google Code Jam, Code Jam 2008, Round 1A
 
@@ -34,24 +34,26 @@ There is also a set of warmup problems. These problems have not individual [prob
 
   09 - PatternMatching       (Ruby)        	  - Interesting problem
 
-  10 - LastDart	      		 (Python, Ruby)	  - Yandex.Algorithm, 2014, Qualification Round
+  10 - LastDart	      		  (Python, Ruby)	  - Yandex.Algorithm, 2014, Qualification Round
 
-  11 - SingleElimination     (Python)	      - Yandex.Algorithm, 2014, Qualification Round
+  11 - SingleElimination     (Python)	        - Yandex.Algorithm, 2014, Qualification Round
 
-  12 - StackofPaper          (Python)         - Yandex.Algorithm, 2014, Qualification Round
+  12 - StackofPaper          (Python)          - Yandex.Algorithm, 2014, Qualification Round
 
-  13 - CorrelationCoefficien (Python)         - HackerRank: May Real Data, 2014
+  13 - CorrelationCoefficien (Python)          - HackerRank: May Real Data, 2014
 
-  14 - GuessFlipkartQuery    (Python)         - HackerRank: May Real Data, 2014
+  14 - GuessFlipkartQuery    (Python)          - HackerRank: May Real Data, 2014
 
-  15 - Palindrome            (Python)         - HackerRank: May Weekly challenges - Week 4, 2014
+  15 - Palindrome            (Python)          - HackerRank: May Weekly challenges - Week 4, 2014
 
-  16 - AlgorithmicCrush      (Ruby)           - HackerRank: May Weekly challenges - Week 4, 2014
+  16 - AlgorithmicCrush      (Ruby)            - HackerRank: May Weekly challenges - Week 4, 2014
 
-  17 - Lucy&Flowers          (C++)            - HackerRank: May Weekly challenges - Week 4, 2014
+  17 - Lucy&Flowers          (C++)             - HackerRank: May Weekly challenges - Week 4, 2014
 
-  18 - Roy&AlphaBetaTrees    (?)              - HackerRank: May Weekly challenges - Week 4, 2014 - Not solved yet
+  18 - Roy&AlphaBetaTrees    (?)               - HackerRank: May Weekly challenges - Week 4, 2014 - Not solved yet
 
-  19 - TwoTwo                (C++)            - HackerRank: May Weekly challenges - Week 4, 2014 - Expert
+  19 - TwoTwo                (C++)             - HackerRank: May Weekly challenges - Week 4, 2014 - Expert
 
-  20 - ExpandList			 (Haskell)		  - HackerRank: Expansion challenge - Difficult
+  20 - ExpandList			      (Haskell)		     - HackerRank: Expansion challenge - Difficult
+
+  21 - RotateString          (Haskell)         - HackerRank: Functional Programming Contest - Difficult
