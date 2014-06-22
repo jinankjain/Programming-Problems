@@ -10,7 +10,7 @@ Also, add your name/github account at the top of each [problem_name].md file. Th
 
 	Author: Date: Problem Statement: Sample:.
 
-There is also a set of warmup problems. These problems have not individual [problem_number] - [problem_name] folder and all these problems go into one folder named Warmup. The Warmup folder is only contained of one file named WarmupProblems.md. The format of this file is as follows
+There is also a set of warmup problems. These problems have not individual [problem_number] - [problem_name] folder and all these problems go into one folder named Warmup. The Warmup folder is only contained of one file named README.md. The format of this file is as follows
 
 	[problem_number] - [name_of_person_who_has_solved_it]/[problem_name] [tab][tab][tab] - [year] | [problem_author].
 
