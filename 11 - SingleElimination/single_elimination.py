@@ -24,7 +24,6 @@ with open("./output.txt", "w") as output:
   # Keeps the number of players
   N = input.readline()
 
-
   # Iterates through contents of input file to eliminate loser
   for line in input:
 
