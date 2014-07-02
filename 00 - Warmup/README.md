@@ -45,3 +45,8 @@
 12 - Ch0c0late/reverse list
 
 	https://gist.github.com/Ch0c0late/31d567c3107e0e6c2499
+
+13 - Ch0c0late/hello world n times
+	
+	https://gist.github.com/Ch0c0late/9e8e36f48974786b2315
+	
