@@ -14,7 +14,7 @@ There is also a set of warmup problems. These problems have not individual [prob
 
 	[problem_number] - [name_of_person_who_has_solved_it]/[problem_name] [tab][tab][tab] - [year] | [problem_author].
 
-  00 -Warmup
+  00 - Warmup
 
   01 - Intersection 	       (Objective-C) 	  - Berkeley University 2013 programming contest
 
