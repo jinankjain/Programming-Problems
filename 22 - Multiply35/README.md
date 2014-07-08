@@ -21,7 +21,7 @@ Sample:
 
 	Input
 	
-        2
+	2
 	10
 	100
 
